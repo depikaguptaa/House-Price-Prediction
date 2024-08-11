@@ -1,0 +1,8 @@
+# Packages required for the app to run
+
+Flask
+numpy 
+pandas 
+matplotlib 
+seaborn 
+scikit-learn
