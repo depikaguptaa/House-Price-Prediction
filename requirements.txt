@@ -1,3 +1,5 @@
+# Dependencies for the project
+
 blinker @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/blinker_1699474692786/work
 Bottleneck @ file:///C:/b/abs_f7un855idq/croot/bottleneck_1709069969633/work
 click @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/click_1699473800648/work
