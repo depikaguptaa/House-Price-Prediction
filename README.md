@@ -2,7 +2,24 @@
 
 This project is a Flask-based web application that predicts house prices using a machine learning model. The app allows users to input various house features, such as BHK, square footage, number of bathrooms, furnished status, and location, and returns an estimated price based on the trained model.
 
-## Features
+## Demo
+
+### Screenshots
+
+<div align="center">
+    <img src="screenshots/Homepage.png" alt="Home Page" width="380" height="225">
+    <img src="screenshots/Values.png" alt="Input Values" width="380" height="225">
+</div>
+<div align="center">
+    <img src="screenshots/Citydropdown.png" alt="City Dropdown" width="380" height="225">
+    <img src="screenshots/Furnishdropdown.png" alt="Furnishing Dropdown" width="380" height="225">
+</div>
+<div align="center">
+    <img src="screenshots/Predicted.png" alt="Model Prediction" width="380" height="225">
+</div>
+
+
+## Key Features
 
 - **User Input Form**: A web form that allows users to input house features.
 - **Price Prediction**: The application returns an estimated house price based on user input.
@@ -51,6 +68,7 @@ This will start the Flask development server. Open your web browser and navigate
     │
     ├── app.py                # Main application file
     ├── venv/                 # Conda virtual environment directory
+    ├── screenshots/          # Added Screenshots/Demo                
     ├── dataset/              # Dataset used for Model Training
     |   └── House_Rent_Dataset.csv
     ├── templates/            # HTML templates for the web application
